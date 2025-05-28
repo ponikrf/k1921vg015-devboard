@@ -1,5 +1,0 @@
-(sym_lib_table
-  (version 7)
-  (lib (name "K192VG015")(type "KiCad")(uri "${KIPRJMOD} /lib")(options "")(descr ""))
-  (lib (name "K1921VG015")(type "KiCad")(uri "${KIPRJMOD}/lib.pretty/K1921VG015.kicad_sym")(options "")(descr ""))
-)
